@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy==2.1.0
+pandas==2.2.2
+
+# Reinforcement learning environment
+gymnasium==1.2.0
+
+# For plotting/debugging
+matplotlib==3.9.2
+
+# (Optional but useful for clean experiments later)
+tqdm==4.66.5
+networkx
+matplotlib
